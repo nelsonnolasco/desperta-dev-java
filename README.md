@@ -123,7 +123,7 @@ Coleções e Streams
 
 Testes unitários com JUnit
 
-Aplicação prática: Xulambs Food / XGI
+Aplicações práticas
 
 ✔ SOLID
 SRP – Single Responsibility Principle
