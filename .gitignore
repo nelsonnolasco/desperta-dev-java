@@ -1,0 +1,8 @@
+# Arquivos do IntelliJ
+.idea/
+*.iml
+
+# Builds Java (se aplicável)
+target/
+out/
+build/
