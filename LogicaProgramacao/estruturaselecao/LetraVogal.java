@@ -1,4 +1,4 @@
-package estruraselecao;
+package estruturaselecao;
 
 import java.util.Scanner;
 

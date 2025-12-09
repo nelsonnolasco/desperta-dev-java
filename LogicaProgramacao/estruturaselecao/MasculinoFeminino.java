@@ -1,4 +1,4 @@
-package estruraselecao;
+package estruturaselecao;
 
 // Faça um programa em Linguagem Java, para ler o sexo de uma pessoa (“M” ou “F”)
 // e exibir a mensagem (“MASCULINO” ou "FEMININO"). Assuma somente entrada válida.

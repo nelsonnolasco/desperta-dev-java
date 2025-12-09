@@ -1,12 +1,11 @@
-package estruraselecao;
+package estruturaselecao;
 
-// Faça um programa em Linguagem Java, que leia a idade de uma pessoa
-// e escrever a mensagem ‘Você é maior de idade’ se ele tiver 18 anos ou mais,
-// ou ‘Você é menor de idade’ caso contrário.
+//Faça um programa em Linguagem Java, que leia a idade de uma pessoa
+// e escrever a mensagem ‘Você é maior de idade’ se ele tiver 18 anos ou mais
 
 import java.util.Scanner;
 
-public class MaiorMenorIdade {
+public class Maioridade {
     public static void main(String[] args) {
         try (Scanner entrada = new Scanner(System.in)) {
             System.out.println("Digite sua idade: ");
@@ -14,8 +13,6 @@ public class MaiorMenorIdade {
 
             if (idade >= 18) {
                 System.out.println("Você é maior de idade");
-            } else {
-                System.out.println("Você é menor de idade");
             }
         }
 

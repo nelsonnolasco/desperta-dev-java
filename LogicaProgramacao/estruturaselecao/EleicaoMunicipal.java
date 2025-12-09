@@ -1,4 +1,4 @@
-package estruraselecao;
+package estruturaselecao;
 
 // Faça um programa em Linguagem Java, para ler o ano de nascimento de uma pessoa
 // e escrever uma mensagem que diga se ele poderá ou não votar na eleição municipal de 2022.

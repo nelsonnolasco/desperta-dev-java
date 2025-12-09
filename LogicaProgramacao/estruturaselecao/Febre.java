@@ -1,4 +1,4 @@
-package estruraselecao;
+package estruturaselecao;
 // Faça um programa em Linguagem Java, para ler a temperatura
 // de uma pessoa e exibir a mensagem “ESTÁ COM FEBRE” ou
 // “NÃO ESTÁ COM FEBRE”. Considere o valor da base como 37,5

@@ -1,4 +1,4 @@
-package estruraselecao;
+package estruturaselecao;
 
 // Faça um programa em Linguagem Java, para ler o nome, sexo (M ou F)
 // e a idade de uma pessoa. Se a pessoa for do sexo feminino e tiver

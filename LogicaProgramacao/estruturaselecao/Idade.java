@@ -1,4 +1,4 @@
-package estruraselecao;
+package estruturaselecao;
 
 // Faça um programa em Linguagem Java, para ler a idade
 // de uma pessoa e exibir uma mensagem dizendo se ela está

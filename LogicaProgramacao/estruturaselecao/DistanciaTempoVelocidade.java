@@ -1,4 +1,4 @@
-package estruraselecao;
+package estruturaselecao;
 
 //Faça um programa em Linguagem Java, para ler a distância (km)
 // e o tempo de viagem (horas) de um automóvel, e dizer se a

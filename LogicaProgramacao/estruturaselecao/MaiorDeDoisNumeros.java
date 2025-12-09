@@ -1,4 +1,4 @@
-package estruraselecao;
+package estruturaselecao;
 
 // Faça um programa em Linguagem Java, para ler dois números
 // e imprimir qual é o maior. Desconsidere empates.
